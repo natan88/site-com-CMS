@@ -1,19 +1,17 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Sobre nós
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+## Sobre esse site
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Esse site foi criado apenas com a finalidade de testar os recursos JAMStack.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Essa é minha primeira experiência com essa tecnologia. Estou utilizando o Netlify para hospedar, NetlifyCMS para gerenciar o conteúdo e o Gatsby que ainda não sei onde entra nessa história rsrs.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+## Objetivos
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Indo direto ao ponto, o objetivo é aprender. Esse site não tem qualquer compromisso com o conteúdo, o objetivo é entender o fluxo para criar sites de forma dinâmica e que atenda as necessidades dos meus clientes.
+
+![Imagem de teste](/img/flavor_wheel.jpg "Essa é uma imagem de teste")
+
+Depois de publicar esse página, pretender customizar o layout, entender a maneira mais prática de gerenciar o conteúdo e conectar APIs para algumas necessidades específicas.
